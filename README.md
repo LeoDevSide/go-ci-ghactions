@@ -1,1 +1,1 @@
-# go-ci-ghactions
+Testing sonar in github actions CI
