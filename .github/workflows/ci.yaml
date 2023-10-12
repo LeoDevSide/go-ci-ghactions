@@ -6,7 +6,6 @@
   jobs:
     check-application:
       runs-on: ubuntu-latest
-      name: Go ${{ matrix.go }} sample
       strategy:
         matrix:
           go: ['1.20','1.21.1']
